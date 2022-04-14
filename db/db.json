@@ -1,0 +1,1604 @@
+{
+  "data": [
+    {
+      "id_empresa": 12500,
+      "nombre": "LA CEREZA CREATIVA",
+      "tipo_servicio": "Otros servicios",
+      "precio": 11244,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/ae4ec5698c09cb6cc4e949214aa4b37b.600x338.png"
+    },
+    {
+      "id_empresa": 12465,
+      "nombre": "Sex Shop Jebs",
+      "tipo_servicio": "Otros servicios",
+      "precio": 17691,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/75375376fc985871994ed6df3a224c0a.600x338.jpg"
+    },
+    {
+      "id_empresa": 12463,
+      "nombre": "Limpión Medellín ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 12788,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7235a4d79db4a1d9ea991632e2e5ef76.600x338.jpg"
+    },
+    {
+      "id_empresa": 12457,
+      "nombre": "White Smile Odontología",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 19482,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a32cb59825c41c8d91f79fad328f17d1.600x338.jpg"
+    },
+    {
+      "id_empresa": 12444,
+      "nombre": "akros colombia",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15287,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/85aaad990c64b26c47e6e1cf40952cb2.600x338.png"
+    },
+    {
+      "id_empresa": 12441,
+      "nombre": "Drum Center Academia de Música",
+      "tipo_servicio": "Entretención",
+      "precio": 16788,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f26f3d1d40d6e4d8ddb374035eed1048.600x338.png"
+    },
+    {
+      "id_empresa": 12427,
+      "nombre": "Golden Spa Nails Art",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 11543,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f9abc2e0c35e0194fa67f058b4a59271.600x338.jpg"
+    },
+    {
+      "id_empresa": 12411,
+      "nombre": "ISOINTEC INGENIERIA INTEGRAL SAS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18063,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9eae6e36d6c4c9f1557a157ddbbb882b.600x338.jpg"
+    },
+    {
+      "id_empresa": 12396,
+      "nombre": "Samao Detalles",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13541,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/3f36763f66c129f1deca644883f30d56.600x338.png"
+    },
+    {
+      "id_empresa": 12382,
+      "nombre": "MAROSA NAILS SPA",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 16590,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f31a4c57f5448d9bdc7de93b92d2ade9.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12370,
+      "nombre": "FEUILLETES C&M SAS",
+      "tipo_servicio": "Gastronomía",
+      "precio": 11319,
+      "calificacion": 0,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0f40f364fb4a6250b09ff3807661f9a6.600x338.png"
+    },
+    {
+      "id_empresa": 12357,
+      "nombre": "Zulma Florez",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 12061,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/83e16f707847d659c26ad801207c7d17.600x338.jpg"
+    },
+    {
+      "id_empresa": 12354,
+      "nombre": "BIKENER.R",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13105,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/ee5277329807936b7551cd1548b26398.600x338.jpg"
+    },
+    {
+      "id_empresa": 12338,
+      "nombre": ".LA CEVICHERÍA.",
+      "tipo_servicio": "Gastronomía",
+      "precio": 13007,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7185589ce22fdc112806f33aff36a36a.600x338.png"
+    },
+    {
+      "id_empresa": 12335,
+      "nombre": "ODONTOLOGIA MILENA BERNAL ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 16012,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/78fdd7b5fa8b935302b23e9b8f52120b.600x338.png"
+    },
+    {
+      "id_empresa": 12332,
+      "nombre": "carlos",
+      "tipo_servicio": "Otros servicios",
+      "precio": 16818,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6352979824154bcaf33d627a892d9bf7.600x338.jpg"
+    },
+    {
+      "id_empresa": 12313,
+      "nombre": "PITS CAR WASH",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15966,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/477ebf2cefc8e61dda0f5f3b1957117d.600x338.png"
+    },
+    {
+      "id_empresa": 12306,
+      "nombre": "URBAN PLAZA SPA",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15187,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d74bb0ec9ff22104bb78f21f39b21de0.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12294,
+      "nombre": "Milena Rivera Beauty Angel",
+      "tipo_servicio": "Estética corporal",
+      "precio": 16967,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5794527e4c3a222a16da792769b45905.600x338.jpg"
+    },
+    {
+      "id_empresa": 12291,
+      "nombre": "CONEJO TATTOO ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 14152,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b1b340c07f1861db348b22e37b8b8ecb.600x338.jpg"
+    },
+    {
+      "id_empresa": 12284,
+      "nombre": "Consultorio Medico Alternativo Salud Y Bienestar",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15782,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4fbefc1eba9641e070a36780a816ed78.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12281,
+      "nombre": "JAP INVESTMENT SAS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15094,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f051ac9846edf18adfe7a0a520b9bfc1.600x338.png"
+    },
+    {
+      "id_empresa": 12267,
+      "nombre": "TECNICENTRO FD ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 16792,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f3558adc4b70d8177e1b9c09d19733c4.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12263,
+      "nombre": "Ocadent",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 17122,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/2606ffa17670a3f63bf0a082ef26223a.600x338.jpg"
+    },
+    {
+      "id_empresa": 12262,
+      "nombre": "Claro Insurance SAS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 12081,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/66d74af7eff39030e793b29596cd7e86.600x338.jpg"
+    },
+    {
+      "id_empresa": 12261,
+      "nombre": "SALEM SPA ",
+      "tipo_servicio": "Estética corporal",
+      "precio": 13612,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a7bd67f5d9d442bbaa237586556dd5af.600x338.jpg"
+    },
+    {
+      "id_empresa": 12260,
+      "nombre": "By:JulianaBG",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 14073,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c14d1565531ca1bc5ed7b07652965739.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12224,
+      "nombre": "Dermo Estetica BCP",
+      "tipo_servicio": "Estética corporal",
+      "precio": 14878,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/21975680f97742587dc21b4921ed81e1.600x338.jpg"
+    },
+    {
+      "id_empresa": 12217,
+      "nombre": "EL REY DEL MAKEUP CENTRO DE BELLEZA ",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 16525,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c8aec7ac260c2ad283e0ee2577753671.600x338.jpg"
+    },
+    {
+      "id_empresa": 12212,
+      "nombre": "Energy fitness ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 16583,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/62c37d05cb366732eaf3763bd623b237.600x338.png"
+    },
+    {
+      "id_empresa": 12192,
+      "nombre": "Ocean Spa Las Villas..",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14302,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/efe1136fa06119b3e5457ccad5e0ef67.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12191,
+      "nombre": "Dra Ana Paula Guerrero Consultorio de Medicina Estética",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 16141,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/2ae031e0d4e57644f9c7fed4bbaca92b.600x338.png"
+    },
+    {
+      "id_empresa": 12189,
+      "nombre": "NATURAL DENTAL SPA",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14726,
+      "calificacion": 0,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/cfd8a86b1bf27e9478cbdc51d70ac349.600x338.png"
+    },
+    {
+      "id_empresa": 12185,
+      "nombre": "Aluntra Spa & Wellness",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 12645,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/2308c204fe9275e0523552a2aace7d0a.600x338.jpg"
+    },
+    {
+      "id_empresa": 12169,
+      "nombre": "P'CATS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 17288,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6d2e011ca664d1a16eb7892a0379d52d.600x338.jpg"
+    },
+    {
+      "id_empresa": 12167,
+      "nombre": "ARCANGELES ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14002,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/fff4e78a5298006ce27f4cf34574f3da.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12166,
+      "nombre": "En Buenas Manos ",
+      "tipo_servicio": "Estética corporal",
+      "precio": 10988,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/96cfc20b02f9baf828c21167e95a31db.600x338.jpg"
+    },
+    {
+      "id_empresa": 12164,
+      "nombre": "Clinica Odontológica Dra Erika Díaz",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14981,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9ee68f8d29c138dc49976a41a55c55b3.600x338.png"
+    },
+    {
+      "id_empresa": 12158,
+      "nombre": "Liberté-k Esthétique",
+      "tipo_servicio": "Estética corporal",
+      "precio": 11536,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0b61a120d5ea31dab153db0ae5f7014e.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12152,
+      "nombre": "La petite foret col",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18249,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0c639c8c2fcb092cd8ced358087635a0.600x338.jpg"
+    },
+    {
+      "id_empresa": 12151,
+      "nombre": "Creamos tu Sonrisa ..",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 11714,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7609711fed3547f5035d8f868dda29f3.600x338.png"
+    },
+    {
+      "id_empresa": 12138,
+      "nombre": "Romantic igloo ",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 16041,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/961b6fb2d8edffac868fb29fe667677e.600x338.jpg"
+    },
+    {
+      "id_empresa": 12133,
+      "nombre": "JAZMÌN",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 15913,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/44a2440ffca4fa6a6de696722533a03e.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12096,
+      "nombre": "Estetica y Belleza Natural Valay",
+      "tipo_servicio": "Estética corporal",
+      "precio": 11832,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/3d3c6f2d76f2f371173e2adba4b13107.600x338.png"
+    },
+    {
+      "id_empresa": 12089,
+      "nombre": "Betel accesorios y belleza ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 17661,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/425348da3b5c3979f418e3645368eeea.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12085,
+      "nombre": "AC Kitchen zona T ",
+      "tipo_servicio": "Gastronomía",
+      "precio": 19319,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/04f3043d0403ce44fab9feb3e420e9e6.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12080,
+      "nombre": "KUAL pets ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 12182,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/cc72f1740de691a6c979c9cc8cb38b72.600x338.jpg"
+    },
+    {
+      "id_empresa": 12079,
+      "nombre": "Spa y belleza wau! ",
+      "tipo_servicio": "Estética corporal",
+      "precio": 14691,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c477297950aab92573f0c45381792b5e.600x338.jpg"
+    },
+    {
+      "id_empresa": 12076,
+      "nombre": "Casauto JEH s.a.s",
+      "tipo_servicio": "Otros servicios",
+      "precio": 17452,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b35b7bb8532dfb593a6ef29f0e4844dd.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12064,
+      "nombre": "MIMAD@S CLUB SPA",
+      "tipo_servicio": "Estética corporal",
+      "precio": 13010,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/8d8468c346ed7fa322fcc067648845fb.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12061,
+      "nombre": "Escuela de natación Leones Marinos ",
+      "tipo_servicio": "Entretención",
+      "precio": 16647,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/25f1b00ff6d6446b2a09b521024a3f86.600x338.jpg"
+    },
+    {
+      "id_empresa": 12052,
+      "nombre": "MR LEON BARBERIA Y PELUQUERIA",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 18157,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/2276e41fda89525ff333beb1657dd861.600x338.png"
+    },
+    {
+      "id_empresa": 12051,
+      "nombre": "Kantú accesorios",
+      "tipo_servicio": "Otros servicios",
+      "precio": 16502,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/cef57dc209bad6b00d58763d76f825d2.600x338.jpeg"
+    },
+    {
+      "id_empresa": 12049,
+      "nombre": "Olipc",
+      "tipo_servicio": "Estética corporal",
+      "precio": 17281,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d49721f67c66929bfd3c393c1898e7fb.600x338.jpg"
+    },
+    {
+      "id_empresa": 12038,
+      "nombre": "Cerrajería Bogotá Asistec",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13558,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a6e47f187799076e81f68c0bc4008511.600x338.png"
+    },
+    {
+      "id_empresa": 12001,
+      "nombre": "Icon Grupo Creativo",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10053,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5246eb9e525de1023a4ef19886f115f5.600x338.jpg"
+    },
+    {
+      "id_empresa": 11997,
+      "nombre": "Verarte casa de Eventos",
+      "tipo_servicio": "Gastronomía",
+      "precio": 14167,
+      "calificacion": 0,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d4d305babc91227b8b527d5a1c435447.600x338.jpg"
+    },
+    {
+      "id_empresa": 11995,
+      "nombre": "Dádivas Nails spa y peluquería",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 17691,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0d5f12e3292aa908df4c6166c2ebc252.600x338.jpg"
+    },
+    {
+      "id_empresa": 11969,
+      "nombre": "Solera Travels",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 13574,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/fd934c08de34feac990d7a078042e606.600x338.jpg"
+    },
+    {
+      "id_empresa": 11951,
+      "nombre": "Vicpro Webdesign",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15590,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d1fb95eecded850ddd3f9bbfeffd84da.600x338.png"
+    },
+    {
+      "id_empresa": 11937,
+      "nombre": "Tienda de empaques  y regalos Morenitas ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 16974,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/3ec33e8ef720c1e83200963eb2fa8083.600x338.png"
+    },
+    {
+      "id_empresa": 11936,
+      "nombre": "GLEY\" LAST",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 10793,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/de4cffd9b8bbe2c7b288c0a60d9a5d79.600x338.jpg"
+    },
+    {
+      "id_empresa": 11871,
+      "nombre": "Meloncello detalles con amor",
+      "tipo_servicio": "Otros servicios",
+      "precio": 17569,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d4f89f695f9e58ed2a8332e9972c42e7.600x338.jpg"
+    },
+    {
+      "id_empresa": 11856,
+      "nombre": "La servitk",
+      "tipo_servicio": "Otros servicios",
+      "precio": 19240,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9b83c4647a6f566a93dbaae9660fa8e6.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11854,
+      "nombre": "TEATRO BERNARDO ROMERO LOZANO",
+      "tipo_servicio": "Entretención",
+      "precio": 17576,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c68260b58337050747098f0595775e02.600x338.png"
+    },
+    {
+      "id_empresa": 11850,
+      "nombre": "mozzafiato hair",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 11656,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5c64d5d8401c8b67f22f7813a27eba09.600x338.png"
+    },
+    {
+      "id_empresa": 11828,
+      "nombre": "Regalos y detalles ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10445,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/93cc89f4c0233fd95665f435cd51bc6e.600x338.jpg"
+    },
+    {
+      "id_empresa": 11811,
+      "nombre": "Soria Estétic Spa",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 15205,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/28b9e508097463acbe4b6cde091e210a.600x338.jpg"
+    },
+    {
+      "id_empresa": 11804,
+      "nombre": "Ek Sorpresas",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13180,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/be59d34bacf8a1c41d584b9eaff7a86d.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11803,
+      "nombre": "Keratinas Bogota",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 10595,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6de88aa624a668d16827d6d539134c88.600x338.jpg"
+    },
+    {
+      "id_empresa": 11789,
+      "nombre": "Jonatan Torres Fotografia ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 12022,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5707ee923d551508e1d082d3454f1a54.600x338.jpg"
+    },
+    {
+      "id_empresa": 11783,
+      "nombre": "NO USAR",
+      "tipo_servicio": "Gastronomía",
+      "precio": 13103,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f76af5052686a339b98bbf37c774e621.600x338.jpg"
+    },
+    {
+      "id_empresa": 11781,
+      "nombre": "LOOKATMEBOG",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 19665,
+      "calificacion": 0,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/eecd535eba6b1bbe70e6b2fa251243e8.600x338.jpg"
+    },
+    {
+      "id_empresa": 11771,
+      "nombre": "TU GLAMPING.COM",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 16750,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/69bf5a105735f415268cd84d4e6590f5.600x338.jpg"
+    },
+    {
+      "id_empresa": 11765,
+      "nombre": "Ecoavila MOTOLAVADO Y ACCESORIOS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 19856,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/bb39649d3ba19f7202fe5ac54bfce586.600x338.png"
+    },
+    {
+      "id_empresa": 11757,
+      "nombre": "Peluquería keimy barber ",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 12308,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f18d0a6d9c26af9fb5e122277647428a.600x338.jpg"
+    },
+    {
+      "id_empresa": 11756,
+      "nombre": "XTREME SHAPER",
+      "tipo_servicio": "Estética corporal",
+      "precio": 14897,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/67126d6aab5ec4da21eb968690bf4148.600x338.jpg"
+    },
+    {
+      "id_empresa": 11741,
+      "nombre": "cursos de excel DV ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15653,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/92c63988b1e44f875bd21dbde0d877c6.600x338.jpg"
+    },
+    {
+      "id_empresa": 11731,
+      "nombre": "Sweetmariferreposteria",
+      "tipo_servicio": "Gastronomía",
+      "precio": 13629,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7e910a09204e84d60960efa0bdfe6731.600x338.jpg"
+    },
+    {
+      "id_empresa": 11730,
+      "nombre": "Lúminis fotografía",
+      "tipo_servicio": "Otros servicios",
+      "precio": 12603,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6e4431cb5773cbc2b1017c4ca3fe590e.600x338.jpg"
+    },
+    {
+      "id_empresa": 11728,
+      "nombre": "Dolce vita Stephany ",
+      "tipo_servicio": "Gastronomía",
+      "precio": 13993,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/97bbc7af33a150702c4a3d5852c96da0.600x338.jpg"
+    },
+    {
+      "id_empresa": 11727,
+      "nombre": "Granja Villa Roma",
+      "tipo_servicio": "Entretención",
+      "precio": 11490,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/13e279fe5c2ad7cb6de428c489b27584.600x338.jpg"
+    },
+    {
+      "id_empresa": 11725,
+      "nombre": "adsSis net",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13823,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e2d62fedf34876c0395789fff0d48bf2.600x338.jpg"
+    },
+    {
+      "id_empresa": 11717,
+      "nombre": "BarBeer Shop Co",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 16805,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6a3fdb903dcbdd8f637d27694b7e8561.600x338.jpg"
+    },
+    {
+      "id_empresa": 11710,
+      "nombre": "Gwapa",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 19510,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0587d5e08e9955e2d5d018aaaab8d48f.600x338.jpg"
+    },
+    {
+      "id_empresa": 11706,
+      "nombre": "Mundo Cejas",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 12681,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f660ed06609935dc769a3e86471adf82.600x338.png"
+    },
+    {
+      "id_empresa": 11704,
+      "nombre": "Photo Art Studio",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10174,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/856f26e1d23c29e1cb084aeb09a0ce17.600x338.jpg"
+    },
+    {
+      "id_empresa": 11664,
+      "nombre": "SOL&LUNA Restaurant",
+      "tipo_servicio": "Gastronomía",
+      "precio": 12299,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4cf0d0160103173cf365b15c63582c90.600x338.jpg"
+    },
+    {
+      "id_empresa": 11640,
+      "nombre": "My Lash Boost ",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 12625,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/2b15bfcf8a67400de0a63c9eb174bc39.600x338.jpg"
+    },
+    {
+      "id_empresa": 11623,
+      "nombre": "MD EVENTOS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18625,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c68a9fd05fd7919ef3a04f1a0c8e8419.600x338.png"
+    },
+    {
+      "id_empresa": 11617,
+      "nombre": "A&V SALUD IPS SAS",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 17937,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7288d352a960ed6c0a05cf0a174168ed.600x338.jpg"
+    },
+    {
+      "id_empresa": 11614,
+      "nombre": "GESTION PROFESIONAL",
+      "tipo_servicio": "Otros servicios",
+      "precio": 11378,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/62c6bcf2fd63021ac0f151460c2c3fba.600x338.jpg"
+    },
+    {
+      "id_empresa": 11604,
+      "nombre": "Matík Taller de sanación",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 12038,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4cf773d812a3d5d3ce3f3970ba3bd564.600x338.jpg"
+    },
+    {
+      "id_empresa": 11593,
+      "nombre": "Centro de Estética y Spa",
+      "tipo_servicio": "Otros servicios",
+      "precio": 17489,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/afe5f54d5374991da0cf6363939ae806.600x338.jpg"
+    },
+    {
+      "id_empresa": 11568,
+      "nombre": "EnCubo Glamping",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 13384,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c2749a568b31540c545188a0b367cca6.600x338.jpg"
+    },
+    {
+      "id_empresa": 11519,
+      "nombre": "Bases y Colchones del Olaya",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15213,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/60fbb1ed96bf04a512481230f68c389a.600x338.jpg"
+    },
+    {
+      "id_empresa": 11517,
+      "nombre": "Agape",
+      "tipo_servicio": "Gastronomía",
+      "precio": 11758,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a09b9fab53cb08b4ef2acc07cca60670.600x338.png"
+    },
+    {
+      "id_empresa": 11508,
+      "nombre": "CUADROS ART CALI",
+      "tipo_servicio": "Otros servicios",
+      "precio": 14253,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/03c7c0ace395d80182db07ae2c30f034.600x338.jpg"
+    },
+    {
+      "id_empresa": 11489,
+      "nombre": "Assistance Clinic",
+      "tipo_servicio": "Estética corporal",
+      "precio": 19903,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/29e06cfac28b3c23bfe28af3b1d7fa1a.600x338.jpg"
+    },
+    {
+      "id_empresa": 11484,
+      "nombre": "Icon",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18235,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a861db299cd5979816d1cad6f6baaeb4.600x338.jpg"
+    },
+    {
+      "id_empresa": 11471,
+      "nombre": "Pacific ",
+      "tipo_servicio": "Gastronomía",
+      "precio": 14084,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/157ff1485b29219412f898f0f24cff59.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11433,
+      "nombre": "Dropspa",
+      "tipo_servicio": "Estética corporal",
+      "precio": 19936,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/814e1c1e463f51455d3fda5e2c641762.600x338.png"
+    },
+    {
+      "id_empresa": 11430,
+      "nombre": "Andrés Vega Fotógrafo",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18323,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/001bd74e24a00403a292608ec2853cb9.600x338.jpg"
+    },
+    {
+      "id_empresa": 11420,
+      "nombre": "dc al desnudo",
+      "tipo_servicio": "Productos con retiro en mi tienda y/o despach",
+      "precio": 16487,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/bd722d51bdd676cc03c87b2ab18b7437.600x338.png"
+    },
+    {
+      "id_empresa": 11409,
+      "nombre": "Ahimsa spa",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15011,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4b8519521961b7af8587557ab54af261.600x338.jpg"
+    },
+    {
+      "id_empresa": 11386,
+      "nombre": "PARIS SUCCESS SAS",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 18757,
+      "calificacion": 0,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c771e22ed9b5f0c87761dc9bef22b798.600x338.jpg"
+    },
+    {
+      "id_empresa": 11376,
+      "nombre": "PIEL SANA - Estética Integral",
+      "tipo_servicio": "Estética corporal",
+      "precio": 10181,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7ee77ebb55cb9e9a5323addc77ebb70e.600x338.png"
+    },
+    {
+      "id_empresa": 11374,
+      "nombre": "Koffer Colombia",
+      "tipo_servicio": "Productos con retiro en mi tienda y/o despach",
+      "precio": 12749,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4a7e83f70505e04f8522cfc7693c9e2f.600x338.jpg"
+    },
+    {
+      "id_empresa": 11363,
+      "nombre": "Hipocrates Premed",
+      "tipo_servicio": "Otros servicios",
+      "precio": 14683,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/922c9c74dfbc876ec5017e0792d02b72.600x338.jpg"
+    },
+    {
+      "id_empresa": 11349,
+      "nombre": "sorpresas Timote",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15150,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/139fd36a60454021037e7041be89bf72.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11347,
+      "nombre": "Festino",
+      "tipo_servicio": "Otros servicios",
+      "precio": 12592,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/1a915620cddf37b9c1298e77b92239dd.600x338.jpg"
+    },
+    {
+      "id_empresa": 11331,
+      "nombre": "Bella Pestañas y Cejas",
+      "tipo_servicio": "Estética corporal",
+      "precio": 16020,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d929f4150ec7fc6617d9635ff331ece2.600x338.png"
+    },
+    {
+      "id_empresa": 11329,
+      "nombre": "VOLK MEDICINA VETERINARIA DOMICILIARIA",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 19102,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7f74919413e14dab7fd69d9d29f03f89.600x338.png"
+    },
+    {
+      "id_empresa": 11324,
+      "nombre": "Ópticas Luxxovision",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 10796,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b5f59bbbcb3ce50c73d9f8fe86480db2.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11323,
+      "nombre": "Papillon Bleu accesorios",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18449,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/44d3dd446411dc5bbd6a89c73a8effbb.600x338.png"
+    },
+    {
+      "id_empresa": 11306,
+      "nombre": "https://instagram.com/esteticadianasoley?r=nametag",
+      "tipo_servicio": "Estética corporal",
+      "precio": 13328,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/1d6d5d2a4e7e5099beef5b00d43fbb62.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11305,
+      "nombre": "Tequeñoz de la casa",
+      "tipo_servicio": "Gastronomía",
+      "precio": 11657,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e468aeaa89dbd09882a0eebf6c3c0098.600x338.jpg"
+    },
+    {
+      "id_empresa": 11262,
+      "nombre": "Jhon Hernández | Entrenamiento Para La vida S.A.S.",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10919,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e2b97fc02b7bf910a0e74ef4e7492ce0.600x338.png"
+    },
+    {
+      "id_empresa": 11258,
+      "nombre": "Turismauro",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 12876,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/2e05c5bade03f2b79795116981d5244f.600x338.png"
+    },
+    {
+      "id_empresa": 11253,
+      "nombre": "ZANDARTE - ESCUELA DE FORMACIÓN ARTÍSTICA Y TERAPÉUTICA",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15979,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/75bb4d3ea591aa83e4643f0bf7db1bb0.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11227,
+      "nombre": "EMPANADAS PA PICAR C BAS",
+      "tipo_servicio": "Gastronomía",
+      "precio": 12323,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/96d6f2e7e1f705ab5e59c84a6dc009b2.600x338.jpg"
+    },
+    {
+      "id_empresa": 11213,
+      "nombre": "TIENDA VIRTUAL HND",
+      "tipo_servicio": "Estética corporal",
+      "precio": 17579,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e786c67114670c6838b66e309f8c55b4.600x338.jpg"
+    },
+    {
+      "id_empresa": 11184,
+      "nombre": "W Smile",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15763,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e6151959a3acfcf2a8ac431f4075969a.600x338.jpeg"
+    },
+    {
+      "id_empresa": 11158,
+      "nombre": "Love in Waffle",
+      "tipo_servicio": "Gastronomía",
+      "precio": 12454,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9088bca0a799452f8d3ed21937a424ab.600x338.jpg"
+    },
+    {
+      "id_empresa": 11152,
+      "nombre": "UnPedacitodeHei",
+      "tipo_servicio": "Gastronomía",
+      "precio": 17880,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/962054961d44d3327f5f59add2315a85.600x338.jpg"
+    },
+    {
+      "id_empresa": 11150,
+      "nombre": "Distribuidora de Belleza Aitana",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 19714,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/456c91f0cf644becd1f9218288aa0a11.600x338.png"
+    },
+    {
+      "id_empresa": 11147,
+      "nombre": "Della Vita Colombia SAS ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 10771,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5c9737327ab8ee98ec1f53d5b9af78a5.600x338.jpg"
+    },
+    {
+      "id_empresa": 11137,
+      "nombre": "CUARTODESAL",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 16108,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/88e651eb124a28ebe33f1e005a4b3dc5.600x338.png"
+    },
+    {
+      "id_empresa": 11125,
+      "nombre": "Vanisha Spa",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 13939,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c96b540613dd61aa03fea479dee84245.600x338.png"
+    },
+    {
+      "id_empresa": 11123,
+      "nombre": "Pepita Pérez",
+      "tipo_servicio": "Entretención",
+      "precio": 10987,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/65aed33c2e81c137b45d5ae998705d78.600x338.jpg"
+    },
+    {
+      "id_empresa": 11121,
+      "nombre": "Café Caribe",
+      "tipo_servicio": "Gastronomía",
+      "precio": 14985,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/8a4ec776c5c5b1677317c889b29f6c79.600x338.png"
+    },
+    {
+      "id_empresa": 11069,
+      "nombre": "WOW Peluquería",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 14875,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/892429d1b7b6833e65be241b34b58d78.600x338.jpg"
+    },
+    {
+      "id_empresa": 11063,
+      "nombre": "Ecobellísima ",
+      "tipo_servicio": "Estética corporal",
+      "precio": 13087,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/32d911f9bffebbe3ce990adeec040681.600x338.png"
+    },
+    {
+      "id_empresa": 11054,
+      "nombre": "Poing",
+      "tipo_servicio": "Otros servicios",
+      "precio": 18206,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/df05800c70f8009b2fffef4970dccfcc.600x338.jpg"
+    },
+    {
+      "id_empresa": 10985,
+      "nombre": "Ubuntu Store ",
+      "tipo_servicio": "",
+      "precio": 17001,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c81e728d9d4c2f636f067f89cc14862c.600x338.png"
+    },
+    {
+      "id_empresa": 10972,
+      "nombre": "DERMOLAB",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14999,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5f6d5e8b30df569f44f3b16a4064223a.600x338.png"
+    },
+    {
+      "id_empresa": 10966,
+      "nombre": "Psalmaprov Technology",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13125,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d5e790a0643c5d6a0d7784098d0860c9.600x338.png"
+    },
+    {
+      "id_empresa": 10964,
+      "nombre": "Detalles dulce milagro",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13832,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9baf2cbf78365afc17919cf788b9539c.600x338.png"
+    },
+    {
+      "id_empresa": 10943,
+      "nombre": "Centro Odontológico San José",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 11092,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a36344d9bf6136c122551f9efe41083b.600x338.jpg"
+    },
+    {
+      "id_empresa": 10916,
+      "nombre": "TuBaile.com",
+      "tipo_servicio": "Entretención",
+      "precio": 14109,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9716d15bb9989a0777084c639c3dc1dc.600x338.png"
+    },
+    {
+      "id_empresa": 10891,
+      "nombre": "Banda L Colombia SAS ",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14123,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b313e9b7078e2537e9527fadc08f46ef.600x338.png"
+    },
+    {
+      "id_empresa": 10853,
+      "nombre": "Desinfección de calidad",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10488,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0f05dbbe4646d37b0cc8df12a4df4858.600x338.png"
+    },
+    {
+      "id_empresa": 10831,
+      "nombre": "B2B Abogados & Consultores ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 11691,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6e3bcaf278433473aff97ae4f7a1914a.600x338.jpg"
+    },
+    {
+      "id_empresa": 10485,
+      "nombre": "Velino Gourmet",
+      "tipo_servicio": "Gastronomía",
+      "precio": 14636,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e661d24469b089b8016f662ce4fff4fb.600x338.jpg"
+    },
+    {
+      "id_empresa": 10279,
+      "nombre": "Distribuidora de belleza New colors ",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 19610,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7310df9fa0e276504b51c0c49c0f839c.600x338.jpg"
+    },
+    {
+      "id_empresa": 10176,
+      "nombre": "Estética Mónica Rodríguez",
+      "tipo_servicio": "Estética corporal",
+      "precio": 16462,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/49ca5417215e6cccd4451e8bdc379590.600x338.jpg"
+    },
+    {
+      "id_empresa": 10113,
+      "nombre": "KANHA CLUB",
+      "tipo_servicio": "Entretención",
+      "precio": 18144,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5f64a8407b766c7c158b3902c09fa3a5.600x338.jpg"
+    },
+    {
+      "id_empresa": 9945,
+      "nombre": "Bella Dent Studio",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15385,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c62accda2092a0d507744da93c24e144.600x338.png"
+    },
+    {
+      "id_empresa": 9891,
+      "nombre": "Ganga Online SAS",
+      "tipo_servicio": "Otros servicios",
+      "precio": 16033,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/1116ff0e26a9546c263e36a8e80e0b47.600x338.jpg"
+    },
+    {
+      "id_empresa": 9731,
+      "nombre": "Cea centro de enseñanza de automovilistica ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 16598,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/11d09fb0a186fba855f4d27c95f50cc1.600x338.jpg"
+    },
+    {
+      "id_empresa": 9665,
+      "nombre": "Magic Nails Colombia",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 11058,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/cd79c390f46ebbf63df99ba1991dfa6e.600x338.jpg"
+    },
+    {
+      "id_empresa": 9657,
+      "nombre": "Magic Stars",
+      "tipo_servicio": "Estética corporal",
+      "precio": 14841,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/8f4286277ef885ae5d63b14842ce4a22.600x338.jpg"
+    },
+    {
+      "id_empresa": 9623,
+      "nombre": "Esbeltz Estética y Spa",
+      "tipo_servicio": "Estética corporal",
+      "precio": 12342,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b79e080c60c42c02bae1152e06350705.600x338.png"
+    },
+    {
+      "id_empresa": 9151,
+      "nombre": "Dcerdo Artesanal",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15527,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/e57dc2e445b3c6af8963c8244a897f57.600x338.png"
+    },
+    {
+      "id_empresa": 9132,
+      "nombre": "Armonia Naturall spa Unicentro",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14758,
+      "calificacion": 2,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c7897a75917a0580aa6fb1966a2085e3.600x338.jpg"
+    },
+    {
+      "id_empresa": 9102,
+      "nombre": " Y &  M",
+      "tipo_servicio": "Otros servicios",
+      "precio": 12780,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b8b585559a53430603b85b84f7bfd0cd.600x338.jpg"
+    },
+    {
+      "id_empresa": 9089,
+      "nombre": "Aventurismo extremo",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 10911,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9d0dd8747aa9094e0db100bda7f2bd8a.600x338.jpg"
+    },
+    {
+      "id_empresa": 9070,
+      "nombre": "Bianna spa boutique",
+      "tipo_servicio": "",
+      "precio": 16064,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5738dcfa3f9fce75aa5f77f676fa6a9d.600x338.png"
+    },
+    {
+      "id_empresa": 9010,
+      "nombre": "Cabalgatas Arepas y Parrilla ",
+      "tipo_servicio": "",
+      "precio": 13832,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c91c60ec7a09cc4f5004e97497bbbc22.600x338.jpg"
+    },
+    {
+      "id_empresa": 8805,
+      "nombre": "4 Lash Cejas y Pestañas",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 18535,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/c7a91e6529462fb22ac0e121d6a6bc67.600x338.jpg"
+    },
+    {
+      "id_empresa": 8621,
+      "nombre": "Ecotrade S.A.S",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10953,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b0d79c5503307f28e2fb9162176dbaf3.600x338.png"
+    },
+    {
+      "id_empresa": 8610,
+      "nombre": "Puebliando por Colombia SAS",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 14403,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6300a140e6feda60cecce6335e247465.600x338.jpg"
+    },
+    {
+      "id_empresa": 8554,
+      "nombre": "Namasté Spa",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14760,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/fbb39a81faac1044d6911d0a91c1adc8.600x338.jpg"
+    },
+    {
+      "id_empresa": 8444,
+      "nombre": "The Laundry Saloon",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10689,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4f8b343c424b5edac8099f73e74dda61.600x338.jpg"
+    },
+    {
+      "id_empresa": 8375,
+      "nombre": "Vital Farme SAS",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 16485,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/76a4c55f7402dabd03b2e660e543ff03.600x338.jpg"
+    },
+    {
+      "id_empresa": 8362,
+      "nombre": "GK TRAVEL BY AIR MERAKI ",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 19185,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7ba0f5d3003e54516bd6a29e04ae278d.600x338.jpg"
+    },
+    {
+      "id_empresa": 8291,
+      "nombre": "Natural Beauty Estetic & spa",
+      "tipo_servicio": "",
+      "precio": 13139,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/3f6e9e21896e59dbca861721d1d75386.600x338.jpg"
+    },
+    {
+      "id_empresa": 8214,
+      "nombre": "Producciones Foco",
+      "tipo_servicio": "Otros servicios",
+      "precio": 15617,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5723547a36e6dcc1760ffd6de999010b.600x338.png"
+    },
+    {
+      "id_empresa": 8168,
+      "nombre": "Integral Life Vital Fit Center",
+      "tipo_servicio": "Estética corporal",
+      "precio": 18189,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d43fed4830b7b302404cf98d1de38fcb.600x338.jpg"
+    },
+    {
+      "id_empresa": 7994,
+      "nombre": "Socialicemos Eventos",
+      "tipo_servicio": "Otros servicios",
+      "precio": 10023,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/4437ad177c1679b1090c78835bb6c221.600x338.png"
+    },
+    {
+      "id_empresa": 7967,
+      "nombre": "Premium Lashes & Brows",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 14699,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/215345fe93d588f98949cf8fb44b6a0e.600x338.jpg"
+    },
+    {
+      "id_empresa": 7868,
+      "nombre": "DENTYMORE",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 14377,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/91dbf4cb5db9094a96ded7cee483dbe0.600x338.png"
+    },
+    {
+      "id_empresa": 7850,
+      "nombre": "Mar de Luz Joyas ",
+      "tipo_servicio": "Otros servicios",
+      "precio": 19838,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/5751f4674c4c71bad592a100df9faaec.600x338.jpg"
+    },
+    {
+      "id_empresa": 7789,
+      "nombre": "crearte imagen",
+      "tipo_servicio": "Otros servicios",
+      "precio": 11423,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b9fc302a5f495f789a53affa02f576aa.600x338.jpg"
+    },
+    {
+      "id_empresa": 7788,
+      "nombre": "Ellos y Ellas Valery Spa",
+      "tipo_servicio": "Estética corporal",
+      "precio": 17472,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/f30129288edf6ab0bf84edf69370c38a.600x338.jpg"
+    },
+    {
+      "id_empresa": 7697,
+      "nombre": "CLINICA DENTIPLUS",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 13415,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/8526999062344f7e5689335aa2cbbd8e.600x338.jpeg"
+    },
+    {
+      "id_empresa": 7639,
+      "nombre": "Brisas de París",
+      "tipo_servicio": "Otros servicios",
+      "precio": 13060,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9a97e33f80e89ac2087b6c947d7d4a74.600x338.png"
+    },
+    {
+      "id_empresa": 7629,
+      "nombre": "Spa Alvaro Pedraza",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 12760,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/8f947ec995694e96b2924414f364d7a5.600x338.png"
+    },
+    {
+      "id_empresa": 7603,
+      "nombre": "Consultorio Protección Dental",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 11057,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/d627b88fb6c52586086e4bba425926d8.600x338.jpg"
+    },
+    {
+      "id_empresa": 7527,
+      "nombre": "Glamour Belleza y Spa",
+      "tipo_servicio": "Estética corporal",
+      "precio": 14154,
+      "calificacion": 8,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/09a23b96d6ba788ed6441dc403db1a06.600x338.jpg"
+    },
+    {
+      "id_empresa": 7411,
+      "nombre": "Lux Shalom Therapeutic Spa Suites Tequendama",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 15332,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/1e1d8e46fdb81db524bae55056e69292.600x338.jpg"
+    },
+    {
+      "id_empresa": 7403,
+      "nombre": "Jet Set Viajes",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 13035,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/b1f8f91865519e1e7b8d37fcaf34abf9.600x338.png"
+    },
+    {
+      "id_empresa": 7277,
+      "nombre": "Tudestino",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 16936,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/80753da2d16304d540a8bffa0b6830ab.600x338.jpg"
+    },
+    {
+      "id_empresa": 7272,
+      "nombre": "Elite Studios By Jhon Saavedra",
+      "tipo_servicio": "Salón de belleza",
+      "precio": 10994,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/7b644b5b4424ebc39cee3f1a3efede4a.600x338.png"
+    },
+    {
+      "id_empresa": 7207,
+      "nombre": "Renew Clínica Especializada en Odontología y Estética Facial",
+      "tipo_servicio": "",
+      "precio": 14669,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/07f0bfb5f4162a394dc3a303a42426d9.600x338.jpg"
+    },
+    {
+      "id_empresa": 7144,
+      "nombre": "Club Dhuchi Hotel & Spa",
+      "tipo_servicio": "",
+      "precio": 10876,
+      "calificacion": 9,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/816712a49485ad1304552579515b30a4.600x338.jpg"
+    },
+    {
+      "id_empresa": 7017,
+      "nombre": "Oral DC",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 11340,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6e15e3b9851be64800479e5575a7ea80.600x338.jpg"
+    },
+    {
+      "id_empresa": 6989,
+      "nombre": "Mr. Cupcake Bogota ",
+      "tipo_servicio": "Gastronomía",
+      "precio": 11631,
+      "calificacion": 7,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/01a2f1f252bc3ed233b1dbbc8f0785c4.600x338.png"
+    },
+    {
+      "id_empresa": 6975,
+      "nombre": "Centrum Esbelta Spa",
+      "tipo_servicio": "Estética corporal",
+      "precio": 11085,
+      "calificacion": 6,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/23702a00c060cc3a21343dccdbfc5b40.600x338.jpg"
+    },
+    {
+      "id_empresa": 6953,
+      "nombre": "VID Vivir Viajando sas",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 17670,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/51b67aac8d9140628f8df7d169462504.600x338.jpg"
+    },
+    {
+      "id_empresa": 6904,
+      "nombre": "Doc Fabiola Diaz Mendez",
+      "tipo_servicio": "",
+      "precio": 16091,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/debef26762ab6bbc644ca48abf8f313a.600x338.jpg"
+    },
+    {
+      "id_empresa": 6458,
+      "nombre": "Piel Canela \"Oeste\"",
+      "tipo_servicio": "Estética corporal",
+      "precio": 16467,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/879e8fde0f5818cc15b006ddec55ae15.600x338.jpg"
+    },
+    {
+      "id_empresa": 6341,
+      "nombre": "Estetica Elite",
+      "tipo_servicio": "",
+      "precio": 14105,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/df850b21103f67bd916812fc08a9b9dc.600x338.jpg"
+    },
+    {
+      "id_empresa": 6310,
+      "nombre": "La Bolera Saloon",
+      "tipo_servicio": "Entretención",
+      "precio": 11297,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/9c58c40b6ae25271b52323272811aff9.600x338.jpg"
+    },
+    {
+      "id_empresa": 6128,
+      "nombre": "Stiks Excursiones & Eventos",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 11183,
+      "calificacion": 4,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/0f0b229fc3d82cdcdb1353a9ac15ab08.600x338.png"
+    },
+    {
+      "id_empresa": 6125,
+      "nombre": "Lago de los Cisnes",
+      "tipo_servicio": "Bienestar y salud",
+      "precio": 16803,
+      "calificacion": 0,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/3155199ca3dcced891e78aecb4b75877.600x338.png"
+    },
+    {
+      "id_empresa": 6010,
+      "nombre": "Estetica Belleza Integral Las palmas",
+      "tipo_servicio": "Estética corporal",
+      "precio": 19800,
+      "calificacion": 1,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/80392c789657940e518dcb0802ed4a30.600x338.jpg"
+    },
+    {
+      "id_empresa": 5930,
+      "nombre": "Matiz Estetica y Salud",
+      "tipo_servicio": "Estética corporal",
+      "precio": 16623,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/abd8850af587a50b0769ebf2fbf21769.600x338.jpg"
+    },
+    {
+      "id_empresa": 5906,
+      "nombre": "Spa Arena de Mar",
+      "tipo_servicio": "Estética corporal",
+      "precio": 17354,
+      "calificacion": 5,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/a213e6234fccebb8274280b919935183.600x338.jpg"
+    },
+    {
+      "id_empresa": 5642,
+      "nombre": "Viajes Luna y Fuego ",
+      "tipo_servicio": "Viajes y turismo",
+      "precio": 17029,
+      "calificacion": 3,
+      "banner": "https://cuponassets.cuponatic-latam.com/backendCo/uploads/banners_empresas/6ff29916f99fff9d2494d28e721ae77e.600x338.jpg"
+    }
+  ]
+}
