@@ -1,7 +1,7 @@
-import { FC, ReactNode } from "react"
-import Head from "next/head"
-import { Navbar } from "../UI"
-import { Container } from "@mui/material"
+import { FC, ReactNode } from 'react'
+import Head from 'next/head'
+import { BottomPagination, Navbar } from '../UI'
+import { Container } from '@mui/material'
 
 interface Props {
   title: string
@@ -9,23 +9,31 @@ interface Props {
   children?: ReactNode
 }
 
-export const LayoutClient: FC<Props> = ({children, title, description}) => {
+export const LayoutClient: FC<Props> = ({ children, title, description }) => {
   return (
     <>
       <Head>
         <title>{title}</title>
-        <meta name="description" content={description} />
+        <meta name='description' content={description} />
       </Head>
 
-        <nav>
-          {/* TODO Nav */}
-          <Navbar />
-        </nav>
+      <nav>
+        <Navbar />
+      </nav>
 
-      <Container maxWidth='sm'>
-        <main style={{ margin: '80px auto', padding: '0px 30px' }}>{children}</main>
+      <Container
+        maxWidth='sm'
+        sx={{
+          margin: '80px auto',
+          padding: '0px 30px',
+        }}
+      >
+        {children}
       </Container>
 
+      <footer>
+        <BottomPagination />
+      </footer>
     </>
   )
 }
