@@ -18,7 +18,7 @@ interface Props {
 export const CardProduct: FC<Props> = ({ image, title, subtitle, price }) => {
   return (
     <Grid item xs={6}>
-      <Card sx={{ maxWidth: 300 }}>
+      <Card sx={{ maxWidth: 300, height: 300 }}>
         <CardMedia component='img' height={140} image={image} alt={title} />
         <CardContent>
           <Typography

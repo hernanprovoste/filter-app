@@ -18,7 +18,7 @@ interface IProduct2 {
 export const ProductList: FC<IProduct2> = ({ products }) => {
   return (
     <Grid container spacing={2}>
-      {products.map((product) => (
+      {products?.map((product) => (
         <CardProduct
           key={product.id_empresa}
           title={product.nombre}
