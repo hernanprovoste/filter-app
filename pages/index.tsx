@@ -14,9 +14,16 @@ import { LayoutClient } from '../components/Layout'
 import { useState } from 'react'
 import { CardProduct } from '../components/UI'
 import { ProductList } from '../components/Products'
+import useSWR from 'swr'
+
+const fetcher = (...args: [key: string]) =>
+  fetch(...args).then((res) => res.json())
 
 const Home: NextPage = () => {
   const [selectValue, setSelectValue] = useState('')
+  const { data, error } = useSWR(`http://localhost:5000/data`, fetcher)
+
+  console.log(data)
 
   const handleChange = (e: SelectChangeEvent) => {
     setSelectValue(e.target.value)
@@ -48,9 +55,7 @@ const Home: NextPage = () => {
         </FormControl>
       </Box>
 
-      <Grid container spacing={2}>
-        <ProductList />
-      </Grid>
+      <ProductList />
     </LayoutClient>
   )
 }
