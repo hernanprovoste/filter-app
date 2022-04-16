@@ -28,9 +28,9 @@ export const Navbar = () => {
           <Button variant='outlined' color='secondary'>
             Viajes y turismo
           </Button>
-          {/* <Button variant='outlined' color='secondary'>
+          <Button variant='outlined' color='secondary'>
             Productos con retiro en mi tienda y/o despach
-          </Button> */}
+          </Button>
           {/* <Button variant='outlined' color='secondary'>
             Boton 1
           </Button> */}

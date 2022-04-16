@@ -21,15 +21,16 @@ const fetcher = (...args: [key: string]) =>
 
 const Home: NextPage = () => {
   const [selectValue, setSelectValue] = useState('')
-  const { data, error } = useSWR(`http://localhost:5000/data`, fetcher)
+  const { data, error } = useSWR(
+    `http://localhost:5000/data?_page=1&_limit=6`,
+    fetcher
+  )
 
-  console.log(data)
+  if (error) return
 
   const handleChange = (e: SelectChangeEvent) => {
     setSelectValue(e.target.value)
   }
-
-  console.log(selectValue)
 
   return (
     <LayoutClient title='Home Page' description='This is a description'>
@@ -55,7 +56,7 @@ const Home: NextPage = () => {
         </FormControl>
       </Box>
 
-      <ProductList />
+      <ProductList products={data} />
     </LayoutClient>
   )
 }

@@ -33,7 +33,7 @@ export const CardProduct: FC<Props> = ({ image, title, subtitle, price }) => {
             {subtitle}
           </Typography>
           <Typography variant='body1' component='div' color='secondary'>
-            {price}
+            $ {price}
           </Typography>
         </CardContent>
       </Card>
