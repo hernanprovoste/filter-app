@@ -3,11 +3,17 @@ import { grey } from '@mui/material/colors'
 
 export const theme = createTheme({
   palette: {
+    background: {
+      default: grey[200],
+    },
     primary: {
       main: grey[200],
     },
     secondary: {
       main: grey[600],
+    },
+    info: {
+      main: grey[800],
     },
   },
   components: {
@@ -31,7 +37,6 @@ export const theme = createTheme({
         variant: 'outlined',
         size: 'small',
         disableElevation: true,
-        color: 'primary',
       },
       styleOverrides: {
         root: {

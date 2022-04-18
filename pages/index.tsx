@@ -1,10 +1,8 @@
-import { NextPage, GetServerSideProps } from 'next'
-
+import { NextPage } from 'next'
 import {
   Box,
   Divider,
   FormControl,
-  Grid,
   InputLabel,
   MenuItem,
   Select,
@@ -12,43 +10,42 @@ import {
   Typography,
 } from '@mui/material'
 import { LayoutClient } from '../components/Layout'
-import { useEffect, useState } from 'react'
+import { ChangeEvent, useState } from 'react'
 import { ProductList } from '../components/Products'
-import axios from 'axios'
 import useSWR from 'swr'
+import { BottomPagination } from '../components/UI'
 
-const fetcher = (...args: [key: string]) =>
-  fetch(...args).then((res) => res.json())
-
-const Home: NextPage = (props) => {
+const Home: NextPage = () => {
   const [selectValue, setSelectValue] = useState('')
-  const [products, setProducts] = useState([])
+  const [page, setPage] = useState(1)
 
-  // useEffect(() => {
-  //   const product = axios.get(
-  //     `http://localhost:5000/data?tipo_servicio=Viajes%20y%20turismo&_page=1&_limit=6`
-  //   )
-  //   setProducts(product)
-  // }, [])
+  const { data: totalData } = useSWR(`http://localhost:5000/data?`)
+  const totalPages = Math.ceil(totalData?.length / 6)
 
-  // console.log(products)
-
-  const { data, error } = useSWR(
-    `http://localhost:5000/data?tipo_servicio=Viajes%20y%20turismo&_sort=precio&_order=${selectValue}&_page=1&_limit=6`,
-    fetcher
+  const { data: products, error } = useSWR(
+    `http://localhost:5000/data?${selectValue}_page=${page}&_limit=6`
   )
 
   if (error) return
 
-  const handleChange = (e: SelectChangeEvent) => {
+  if (!products) return <div>Loading</div>
+
+  const handleChange = async (e: SelectChangeEvent) => {
     setSelectValue(e.target.value)
+  }
+
+  const handleChangePage = (
+    e: ChangeEvent<HTMLInputElement>,
+    value: number
+  ) => {
+    setPage(value)
   }
 
   return (
     <LayoutClient title='Home Page' description='This is a description'>
       <Box display='flex' flexDirection='column' mb={4}>
         <Typography variant='h5' component='h5' color='secondary'>
-          Salon de Belleza
+          All Data
         </Typography>
         <Divider sx={{ mb: 2, mt: 1 }} />
         <FormControl fullWidth>
@@ -60,30 +57,25 @@ const Home: NextPage = (props) => {
             value={selectValue}
             onChange={handleChange}
           >
-            <MenuItem value={10}>Nombre</MenuItem>
-            <MenuItem value='asc'>Menor precio</MenuItem>
-            <MenuItem value='desc'>Mayor precio</MenuItem>
-            <MenuItem value={30}>Mejor calificación</MenuItem>
+            <MenuItem value='_sort=nombre&_order=asc&'>Nombre</MenuItem>
+            <MenuItem value='_sort=precio&_order=asc&'>Menor precio</MenuItem>
+            <MenuItem value='_sort=precio&_order=desc&'>Mayor precio</MenuItem>
+            <MenuItem value='_sort=calificacion&_order=desc&'>
+              Mejor calificación
+            </MenuItem>
           </Select>
         </FormControl>
       </Box>
 
-      <ProductList products={data} />
+      <ProductList products={products} />
+
+      <BottomPagination
+        totalPages={totalPages}
+        page={page}
+        handleChange={handleChangePage}
+      />
     </LayoutClient>
   )
 }
-
-// // You should use getServerSideProps when:
-// // - Only if you need to pre-render a page whose data must be fetched at request time
-
-// export const getServerSideProps: GetServerSideProps = async () => {
-//   const { data } = await axios.get(
-//     `http://localhost:5000/data?tipo_servicio=Viajes%20y%20turismo&_page=1&_limit=6`
-//   )
-
-//   return {
-//     props: { data },
-//   }
-// }
 
 export default Home

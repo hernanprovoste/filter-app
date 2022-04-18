@@ -1,21 +1,12 @@
-import { Grid } from '@mui/material'
 import React, { FC } from 'react'
+import { Grid } from '@mui/material'
+import { IProduct } from '../../interfaces'
 import { CardProduct } from '../UI'
-
-export interface IProduct {
-  id_empresa: number
-  nombre: string
-  tipo_servicio: string
-  precio: number
-  calificacion: number
-  banner: string
-}
-
-interface IProduct2 {
+interface Props {
   products: IProduct[]
 }
 
-export const ProductList: FC<IProduct2> = ({ products }) => {
+export const ProductList: FC<Props> = ({ products }) => {
   return (
     <Grid container spacing={2}>
       {products?.map((product) => (

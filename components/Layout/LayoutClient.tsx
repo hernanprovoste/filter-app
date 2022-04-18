@@ -30,10 +30,6 @@ export const LayoutClient: FC<Props> = ({ children, title, description }) => {
       >
         {children}
       </Container>
-
-      <footer>
-        <BottomPagination />
-      </footer>
     </>
   )
 }
